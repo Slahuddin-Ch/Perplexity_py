@@ -1,0 +1,10 @@
+psycopg2
+requests
+langchain
+sentence-transformers
+faiss-cpu
+scikit-learn
+numpy
+sqlalchemy
+openai==0.28
+bcrypt
